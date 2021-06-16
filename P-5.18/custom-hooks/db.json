@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are awesome!",
+      "id": 1
+    },
+    {
+      "content": "best feature ever <3",
+      "id": 2
+    }
+  ],
+  "persons": [
+    {
+      "name": "susheel",
+      "number": "9515858993",
+      "id": 1
+    }
+  ]
+}
